@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo_das_raizes_da_equação_de_Bhaskara", "Calculo_das_raizes_da_equação_de_Bhaskara\Calculo_das_raizes_da_equação_de_Bhaskara.csproj", "{CDBA894A-850D-4EE5-BAAD-62819A8346FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBA894A-850D-4EE5-BAAD-62819A8346FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBA894A-850D-4EE5-BAAD-62819A8346FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBA894A-850D-4EE5-BAAD-62819A8346FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBA894A-850D-4EE5-BAAD-62819A8346FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC05C5A4-4A11-450F-BDC4-784663E5F289}
+	EndGlobalSection
+EndGlobal
